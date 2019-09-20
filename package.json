@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Corrina-Busby/knex#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "mysql": "^2.17.1",
     "nodemon": "^1.19.2"
   }
 }
